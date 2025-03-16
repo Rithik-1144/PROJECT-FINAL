@@ -1,0 +1,30 @@
+# Core Libraries
+numpy==1.23.5
+pandas==1.5.3
+opencv-python==4.7.0.72
+Pillow==9.4.0
+matplotlib==3.6.3
+scikit-learn==1.2.0
+
+# Machine Learning and Deep Learning
+tensorflow==2.11.0
+keras==2.11.0
+
+# Database
+pymongo==4.3.3
+
+# GUI
+tkinter==0.1.0
+
+# Logging
+logging==0.4.9.6
+
+# Threading
+threading==3.10.4
+
+# Utility Libraries
+datetime==4.7
+python-dotenv==0.21.1
+
+# Testing
+pytest==7.2.1
